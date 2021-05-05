@@ -1,8 +1,11 @@
-# Hi
+# Hi my name is Kasemtan(Float)
 ![](https://64.media.tumblr.com/9c2a8f831efe8da556ffbf89cebb52c9/b86c1ab833a37e32-93/s1280x1920/d000dc22f75df64be2bc150f5fa69c4f6df6bb07.gifv)
-### I'm a ordinary cs student
+#### I'm a ordinary cs student
 ### Also I'm new to programming
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
+#
+### Language I used
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact)]()
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
