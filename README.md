@@ -7,11 +7,11 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 30 Contributions in the Year 2021
+> 🏆 31 Contributions in the Year 2021
  > 
 > 📦 8.3 kB Used in Github's Storage 
  > 
@@ -27,15 +27,15 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               3 hrs 28 mins       ████████████████████████░   98.13% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+JavaScript               2 hrs 50 mins       ████████████████████████░   97.55% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 54 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.0%
+Windows                  2 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -49,7 +49,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 26/06/2021
+ Last Updated on 27/06/2021
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
