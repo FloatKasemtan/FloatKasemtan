@@ -27,14 +27,13 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        █████████████████████████   99.63% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
