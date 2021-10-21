@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 32 Contributions in the Year 2021
  > 
-> 📦 8.4 kB Used in Github's Storage 
+> 📦 8.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,13 +27,14 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     21 mins             █████████████████████████   100.0%
+TypeScript               40 mins             ████████████████░░░░░░░░░   65.2% 
+JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   34.8%
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.0%
+VS Code                  1 hr 1 min          █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.0%
+Windows                  1 hr 1 min          █████████████████████████   100.0%
 
 ```
 
@@ -47,7 +48,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
