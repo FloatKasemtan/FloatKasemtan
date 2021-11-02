@@ -41,17 +41,17 @@ Windows                  14 hrs              ███████████�
 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Vue                      1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.0%
+JavaScript               2 repos             ████████████████░░░░░░░░░   66.67% 
+Vue                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
