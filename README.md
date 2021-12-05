@@ -27,28 +27,29 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSX                      1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Vue                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C#                       1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
