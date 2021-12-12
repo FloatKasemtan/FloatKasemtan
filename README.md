@@ -7,15 +7,13 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 32 Contributions in the Year 2021
  > 
-> 📦 8.5 kB Used in GitHub's Storage 
+> 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,17 +27,17 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSX                      8 hrs 31 mins       ██████████████████████░░░   89.09% 
-TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+JSX                      9 hrs 5 mins        ███████████████████░░░░░░   77.35% 
+TypeScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       █████████████████████████   100.0%
+VS Code                  11 hrs 44 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 34 mins       █████████████████████████   100.0%
+Windows                  11 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -55,7 +53,7 @@ TypeScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 12/12/2021
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
