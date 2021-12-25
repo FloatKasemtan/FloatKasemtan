@@ -1,7 +1,6 @@
 # Hi my name is Kasemtan(Float)
 ![](https://64.media.tumblr.com/9c2a8f831efe8da556ffbf89cebb52c9/b86c1ab833a37e32-93/s1280x1920/d000dc22f75df64be2bc150f5fa69c4f6df6bb07.gifv)
-#### I'm a ordinary cs student
-### Also I'm new to programming
+#### I'm a cs student
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
 ### Language I used
