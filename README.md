@@ -1,18 +1,17 @@
 # Hi my name is Kasemtan(Float)
 ![](https://64.media.tumblr.com/9c2a8f831efe8da556ffbf89cebb52c9/b86c1ab833a37e32-93/s1280x1920/d000dc22f75df64be2bc150f5fa69c4f6df6bb07.gifv)
-#### I'm a cs student
+#### CS student at KMUTT
+#### I'm developer who love new technology
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 105 Contributions in the Year 2021
+> 🏆 104 Contributions in the Year 2021
  > 
 > 📦 8.6 kB Used in GitHub's Storage 
  > 
@@ -28,17 +27,17 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSX                      8 hrs 21 mins       █████████████████░░░░░░░░   68.07% 
-TypeScript               3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63% 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+JSX                      12 hrs 59 mins      █████████████████░░░░░░░░   70.78% 
+TypeScript               4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99% 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 20 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.0%
+Windows                  18 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
