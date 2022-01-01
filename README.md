@@ -11,13 +11,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 106 Contributions in the Year 2021
+> 🏆 3 Contributions in the Year 2022
  > 
-> 📦 8.6 kB Used in GitHub's Storage 
+> 📦 8.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -40,16 +40,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
