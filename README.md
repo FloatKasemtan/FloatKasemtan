@@ -27,13 +27,13 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     37 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +50,7 @@ Dart                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
