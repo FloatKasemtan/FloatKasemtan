@@ -7,6 +7,8 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
@@ -27,13 +29,14 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     37 mins             █████████████████████████   100.0%
+Dart                     2 hrs 43 mins       █████████████████████████   99.9% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.0%
+Windows                  2 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
