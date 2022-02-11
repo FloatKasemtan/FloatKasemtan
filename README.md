@@ -7,15 +7,13 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 54 Contributions in the Year 2022
  > 
-> 📦 11.2 kB Used in GitHub's Storage 
+> 📦 16.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,18 +27,18 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.47% 
-Go                       3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.13% 
-Dart                     3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   26.53% 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
+Dart                     4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.84% 
+Go                       3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   39.3% 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
+SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████░░░░░░░░   68.27% 
-GoLand                   3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.73%
+VS Code                  6 hrs 11 mins       ███████████████░░░░░░░░░░   61.19% 
+GoLand                   3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   38.81%
 
 💻 Operating System: 
-Windows                  12 hrs 21 mins      █████████████████████████   100.0%
+Windows                  10 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -57,7 +55,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2022 18:39:09 UTC
+ Last Updated on 11/02/2022 18:40:04 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
