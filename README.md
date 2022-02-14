@@ -7,7 +7,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,18 +27,14 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     3 hrs 46 mins       █████████████░░░░░░░░░░░░   53.97% 
-Go                       2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.29% 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Dart                     3 hrs 46 mins       ████████████████████████░   98.63% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
 
 🔥 Editors: 
-VS Code                  4 hrs               ██████████████░░░░░░░░░░░   57.38% 
-GoLand                   2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   42.62%
+VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 58 mins       █████████████████████████   100.0%
+Windows                  3 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -55,7 +51,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2022 18:38:50 UTC
+ Last Updated on 14/02/2022 18:40:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
