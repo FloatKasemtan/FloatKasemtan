@@ -11,9 +11,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 54 Contributions in the Year 2022
+> 🏆 56 Contributions in the Year 2022
  > 
-> 📦 16.6 kB Used in GitHub's Storage 
+> 📦 16.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,14 +27,14 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     3 hrs 46 mins       ████████████████████████░   98.63% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+Dart                     5 hrs 22 mins       ████████████████████████░   99.04% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 25 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.0%
+Windows                  5 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -51,7 +51,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2022 18:40:13 UTC
+ Last Updated on 16/02/2022 18:41:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
