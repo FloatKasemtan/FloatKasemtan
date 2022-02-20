@@ -7,13 +7,13 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2022
+> 🏆 58 Contributions in the Year 2022
  > 
-> 📦 16.7 kB Used in GitHub's Storage 
+> 📦 17.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,13 +27,15 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     4 hrs 31 mins       █████████████████████████   100.0%
+Dart                     4 hrs 34 mins       ████████████████████████░   98.95% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.0%
+Windows                  4 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +52,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2022 18:39:21 UTC
+ Last Updated on 20/02/2022 18:39:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
