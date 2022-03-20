@@ -7,8 +7,6 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -21,7 +19,7 @@
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -29,17 +27,17 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     2 hrs 34 mins       ██████████████████████░░░   87.78% 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
-Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+HTML                     2 hrs 34 mins       ██████████████████████░░░   88.27% 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 55 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       █████████████████████████   100.0%
+Mac                      2 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -56,7 +54,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2022 18:54:31 UTC
+ Last Updated on 20/03/2022 18:41:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
