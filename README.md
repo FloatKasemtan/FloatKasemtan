@@ -27,13 +27,15 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               46 mins             ████████████████████░░░░░   83.41% 
+Bash                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +52,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2022 18:44:08 UTC
+ Last Updated on 09/04/2022 18:42:24 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
