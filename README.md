@@ -7,6 +7,8 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -55,7 +57,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2022 17:03:35 UTC
+ Last Updated on 04/05/2022 17:05:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
