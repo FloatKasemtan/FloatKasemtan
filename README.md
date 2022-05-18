@@ -7,7 +7,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,18 +29,18 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSON                     2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.11% 
-Dart                     2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.01% 
+JSON                     2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.12% 
+Dart                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.99% 
 TypeScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
+JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
 Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 54 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       ████████████████░░░░░░░░░   64.18% 
-Windows                  2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.82%
+Mac                      4 hrs 26 mins       ████████████████░░░░░░░░░   64.17% 
+Windows                  2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.83%
 
 ```
 
@@ -57,7 +57,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2022 18:45:35 UTC
+ Last Updated on 18/05/2022 18:47:20 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
