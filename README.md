@@ -9,20 +9,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 61 contributions in 2022
-
-📦 66.0 kB used in GitHub's storage 
-
-📜 9 Public Repositories 
-
-🔑 7 Private Repositories  
+> 🏆 61 Contributions in the Year 2022
  > 
-📊 **This week I spent my time on** 
+> 📦 66.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
@@ -44,7 +45,7 @@ Windows                  2 hrs 22 mins       ██░░░░░░░░░�
 
 ```
 
-**💻 I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -57,7 +58,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:12:59 UTC
+ Last Updated on 12/06/2022 08:14:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
