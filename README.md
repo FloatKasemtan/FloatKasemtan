@@ -7,23 +7,22 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 61 Contributions in the Year 2022
+```text
+🏆 61 contributions in 2022
+
+📦 65.9 kB used in GitHub's storage 
+
+📜 9 Public Repositories 
+
+🔑 7 Private Repositories  
  > 
-> 📦 65.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
@@ -45,7 +44,7 @@ Windows                  2 hrs 22 mins       ██░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -58,7 +57,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:35:33 UTC
+ Last Updated on 12/06/2022 07:37:21 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
