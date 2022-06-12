@@ -7,7 +7,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,7 +58,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 06:16:32 UTC
+ Last Updated on 12/06/2022 06:18:15 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
