@@ -1,7 +1,9 @@
 # Hi my name is Kasemtan(Float)
 ![](https://64.media.tumblr.com/9c2a8f831efe8da556ffbf89cebb52c9/b86c1ab833a37e32-93/s1280x1920/d000dc22f75df64be2bc150f5fa69c4f6df6bb07.gifv)
 #### CS student at KMUTT
-#### I'm developer who love new technology
+#### I'm developer who want to be better at software engineering
+#### The reason???
+#### Money yeah Money Woahhh, and also I love to code
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
 ### Language I used
@@ -17,7 +19,7 @@
  > 
 > 📦 68.4 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> ✅ Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
@@ -58,7 +60,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2022 11:40:59 UTC
+ Last Updated on 26/06/2022 11:39:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
