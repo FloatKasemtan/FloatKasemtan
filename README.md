@@ -19,7 +19,7 @@
  > 
 > 📦 68.4 kB Used in GitHub's Storage 
  > 
-> ✅ Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
@@ -60,7 +60,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2022 11:39:08 UTC
+ Last Updated on 26/06/2022 11:44:06 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
