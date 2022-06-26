@@ -3,7 +3,9 @@
 #### CS student at KMUTT
 #### I'm developer who want to be better at software engineering
 #### The reason???
-#### Money yeah Money Woahhh, and also I love to code
+#### Yes it's Moneyyyyy WOAHH, and also I love to code
+![rice-shower-uma-musume](https://user-images.githubusercontent.com/69688279/175812486-12516245-7ac3-48ed-bab9-5aa6da0ba87e.gif)
+
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
 ### Language I used
@@ -19,7 +21,7 @@
  > 
 > 📦 68.4 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> ✅ Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
@@ -60,7 +62,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2022 11:44:06 UTC
+ Last Updated on 26/06/2022 11:39:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
