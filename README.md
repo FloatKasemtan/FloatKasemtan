@@ -12,13 +12,13 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 232 Contributions in the Year 2022
+> 🏆 225 Contributions in the Year 2022
  > 
 > 📦 69.3 kB Used in GitHub's Storage 
  > 
@@ -63,7 +63,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2022 08:39:34 UTC
+ Last Updated on 02/07/2022 08:41:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
