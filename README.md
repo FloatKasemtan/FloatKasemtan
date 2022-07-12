@@ -6,6 +6,10 @@
 #### Yes it's Moneyyyyy WOAHH, and also I love to code
 ![g2qb5](https://user-images.githubusercontent.com/69688279/175812510-9235eaf7-72f7-40d3-b163-56efa9aa5c6b.gif)
 
+#### You can contact me through these (recommend using discord)
+- [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discordapp.com/users/278155096225742848)
+- [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/float.teavasirichokchai/)
+- [![](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasemtan-teavasirichokchai-975531227/)
 
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
@@ -63,7 +67,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2022 15:33:03 UTC
+ Last Updated on 12/07/2022 15:24:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
