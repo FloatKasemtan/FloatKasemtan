@@ -3,7 +3,7 @@
 #### CS student at KMUTT
 #### I'm developer who want to be better at software engineering
 #### The reason???
-#### Yes it's Moneyyyyy WOAHH, and also I love to code
+#### it's Moneyyyyy EHE, and also I love to code
 ![g2qb5](https://user-images.githubusercontent.com/69688279/175812510-9235eaf7-72f7-40d3-b163-56efa9aa5c6b.gif)
 
 #### You can contact me through these (recommend using discord)
