@@ -16,21 +16,21 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 547 Contributions in the Year 2022
+> 🏆 552 Contributions in the Year 2022
  > 
-> 📦 74.3 kB Used in GitHub's Storage 
+> 📦 74.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 10 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -58,17 +58,17 @@ Windows                  34 mins             ███░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Dart                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Go                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 ```
 
 
 
- Last Updated on 27/08/2022 06:46:24 UTC
+ Last Updated on 27/08/2022 18:44:00 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
