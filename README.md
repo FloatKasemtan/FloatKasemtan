@@ -24,7 +24,7 @@
 
 > 🏆 556 Contributions in the Year 2022
  > 
-> 📦 75.0 kB Used in GitHub's Storage 
+> 📦 75.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,6 +32,29 @@
  > 
 > 🔑 11 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   42.33% 
+TypeScript               3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.68% 
+Java                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+
+🔥 Editors: 
+GoLand                   5 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.98% 
+VS Code                  4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.68% 
+IntelliJ                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34%
+
+💻 Operating System: 
+Mac                      10 hrs 49 mins      ███████████████████████░░   94.93% 
+Windows                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -45,7 +68,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2022 17:02:55 UTC
+ Last Updated on 31/08/2022 17:04:37 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
