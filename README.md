@@ -16,15 +16,15 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 571 Contributions in the Year 2022
+> 🏆 578 Contributions in the Year 2022
  > 
-> 📦 75.5 kB Used in GitHub's Storage 
+> 📦 75.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,28 +32,6 @@
  > 
 > 🔑 11 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Java                     4 hrs               █████████░░░░░░░░░░░░░░░░   35.57% 
-TypeScript               3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.5% 
-Go                       2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.9% 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
-
-🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████░░░░░░░░░░░░   51.74% 
-IntelliJ                 3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   34.29% 
-GoLand                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97%
-
-💻 Operating System: 
-Mac                      11 hrs 15 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,7 +45,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 03:30:41 UTC
+ Last Updated on 04/09/2022 18:44:22 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
