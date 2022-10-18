@@ -32,6 +32,26 @@
  > 
 > 🔑 15 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               4 hrs 14 mins       ███████████████████████░░   92.32% 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+
+🔥 Editors: 
+VS Code                  4 hrs 35 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      4 hrs 35 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -45,7 +65,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2022 19:04:12 UTC
+ Last Updated on 18/10/2022 19:05:51 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
