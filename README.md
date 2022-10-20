@@ -16,7 +16,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -65,7 +65,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2022 09:17:54 UTC
+ Last Updated on 20/10/2022 09:19:32 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
