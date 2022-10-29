@@ -17,21 +17,21 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 766 Contributions in the Year 2022
+> 🏆 776 Contributions in the Year 2022
  > 
-> 📦 485.1 kB Used in GitHub's Storage 
+> 📦 485.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -39,18 +39,17 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       2 hrs 20 mins       █████████████████░░░░░░░░   68.72% 
-TypeScript               45 mins             █████░░░░░░░░░░░░░░░░░░░░   22.15% 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+Go                       4 hrs 24 mins       ████████████████████░░░░░   79.99% 
+TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       ████████████████████░░░░░   79.86% 
-GoLand                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14%
+VS Code                  5 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.0%
+Mac                      5 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -67,7 +66,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2022 23:23:37 UTC
+ Last Updated on 29/10/2022 18:45:12 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
