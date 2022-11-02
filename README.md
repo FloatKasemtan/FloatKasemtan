@@ -17,7 +17,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -57,16 +57,16 @@ Mac                      10 hrs 40 mins      ███████████�
 
 ```text
 TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
-Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
 JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+Go                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+Svelte                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
 
 ```
 
 
 
- Last Updated on 02/11/2022 15:57:21 UTC
+ Last Updated on 02/11/2022 15:59:32 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
