@@ -17,13 +17,13 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 787 Contributions in the Year 2022
+> 🏆 792 Contributions in the Year 2022
  > 
 > 📦 485.9 kB Used in GitHub's Storage 
  > 
@@ -57,16 +57,16 @@ Mac                      12 hrs 26 mins      ███████████�
 
 ```text
 TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
+Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
 JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Go                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Svelte                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
+Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 ```
 
 
 
- Last Updated on 04/11/2022 23:56:03 UTC
+ Last Updated on 05/11/2022 18:43:14 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
