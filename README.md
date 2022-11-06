@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 792 Contributions in the Year 2022
+> 🏆 794 Contributions in the Year 2022
  > 
 > 📦 485.9 kB Used in GitHub's Storage 
  > 
@@ -56,17 +56,17 @@ Mac                      14 hrs 15 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
-Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
 
 
 
- Last Updated on 06/11/2022 00:23:10 UTC
+ Last Updated on 06/11/2022 18:43:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
