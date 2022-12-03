@@ -17,7 +17,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -39,17 +39,17 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.97% 
-Svelte                   1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   35.09% 
-TypeScript               1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   26.61% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+Svelte                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   39.07% 
+Go                       1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   33.98% 
+TypeScript               1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   26.66% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       ████████████████████░░░░░   83.36% 
-GoLand                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64%
+VS Code                  4 hrs 10 mins       █████████████████████░░░░   85.11% 
+GoLand                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.0%
+Mac                      4 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -66,7 +66,7 @@ Svelte                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2022 17:01:27 UTC
+ Last Updated on 03/12/2022 17:03:22 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
