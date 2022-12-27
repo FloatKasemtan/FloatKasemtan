@@ -25,13 +25,13 @@
 
 > 🏆 876 Contributions in the Year 2022
  > 
-> 📦 493.5 kB Used in GitHub's Storage 
+> 📦 509.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -58,17 +58,17 @@ Mac                      21 hrs 6 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.92% 
-Go                       9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-Svelte                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+Go                       9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Dart                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Svelte                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 
 
 
- Last Updated on 27/12/2022 17:26:01 UTC
+ Last Updated on 27/12/2022 17:27:34 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
