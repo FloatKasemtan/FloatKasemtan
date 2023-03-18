@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 535.3 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2023
+> 🏆 187 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,7 +67,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2023 15:24:56 UTC
+ Last Updated on 18/03/2023 15:25:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
