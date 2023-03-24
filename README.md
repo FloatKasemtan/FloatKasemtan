@@ -10,7 +10,7 @@
 #### You can contact me through these (recommend using discord)
 - [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discordapp.com/users/278155096225742848)
 - [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/float.teavasirichokchai/)
-- [![](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasemtan-teavasirichokchai-975531227/)
+- [![](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/floatkasemtan/)
 
 [![](https://github-readme-stats.vercel.app/api?username=FloatKasemtan&show_icons=true&theme=nightowl)]()
 #
