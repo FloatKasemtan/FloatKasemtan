@@ -1,10 +1,10 @@
 # Hi my name is Kasemtan(Float)
 ![](https://64.media.tumblr.com/9c2a8f831efe8da556ffbf89cebb52c9/b86c1ab833a37e32-93/s1280x1920/d000dc22f75df64be2bc150f5fa69c4f6df6bb07.gifv)
 [![@floatkasemtan's Holopin board](https://holopin.me/floatkasemtan)](https://holopin.io/@floatkasemtan)
-#### CS student at KMUTT
-#### I'm developer who want to be better at software engineering
+#### Computer Science student at KMUTT
+#### I'm developer, who want to be better at software engineering
 #### The reason???
-#### it's Moneyyyyy EHE, and also I love to code
+#### it's Moneyyyyy EHE, I love, and interest in software development field aswell.
 ![g2qb5](https://user-images.githubusercontent.com/69688279/175812510-9235eaf7-72f7-40d3-b163-56efa9aa5c6b.gif)
 
 #### You can contact me through these (recommend using discord)
