@@ -4,7 +4,8 @@
 #### Computer Science student at KMUTT
 #### I'm developer, who want to be better at software engineering
 #### The reason???
-#### it's Moneyyyyy EHE, I love, and interest in software development field aswell.
+#### it's Mone.... 
+#### Ahmmm I love, and interest in software development field.
 ![g2qb5](https://user-images.githubusercontent.com/69688279/175812510-9235eaf7-72f7-40d3-b163-56efa9aa5c6b.gif)
 
 #### You can contact me through these (recommend using discord)
@@ -17,7 +18,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -25,7 +26,7 @@
 
 > 📦 539.2 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2023
+> 🏆 210 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,18 +40,18 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 2 mins        ███████████████░░░░░░░░░░   58.51 % 
-Svelte                   2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Kotlin                   4 hrs 41 mins       ████████████████░░░░░░░░░   64.18 % 
+Svelte                   2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Android Studio           4 hrs 21 mins       ████████████████░░░░░░░░░   63.18 % 
-VS Code                  2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Android Studio           4 hrs 46 mins       ████████████████░░░░░░░░░   65.22 % 
+VS Code                  2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
 
 💻 Operating System: 
-Mac                      6 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,7 +67,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2023 17:46:09 UTC
+ Last Updated on 06/04/2023 06:22:05 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
