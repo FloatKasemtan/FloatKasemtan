@@ -18,7 +18,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 543.6 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2023
+> 🏆 278 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,7 +68,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2023 20:34:44 UTC
+ Last Updated on 28/04/2023 20:35:23 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
