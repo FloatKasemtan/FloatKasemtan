@@ -18,7 +18,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 544.0 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2023
+> 🏆 280 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,19 +40,19 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               8 hrs 50 mins       ███████████████░░░░░░░░░░   60.67 % 
-Kotlin                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-XML                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Go                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JavaScript               7 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.30 % 
+Kotlin                   5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
+XML                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Go                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       ███████████████░░░░░░░░░░   61.36 % 
-Android Studio           4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
-GoLand                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+VS Code                  7 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.84 % 
+Android Studio           7 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
+GoLand                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 💻 Operating System: 
-Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,7 +68,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2023 17:00:09 UTC
+ Last Updated on 29/04/2023 17:00:47 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
