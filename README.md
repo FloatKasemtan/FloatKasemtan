@@ -18,7 +18,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 553.5 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2023
+> 🏆 325 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,18 +40,18 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
-Kotlin                   1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-XML                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Kotlin                   12 mins             ███████████░░░░░░░░░░░░░░   42.13 % 
+Python                   10 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
+XML                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        ██████████████░░░░░░░░░░░   54.86 % 
-Android Studio           1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.14 % 
+Android Studio           20 mins             █████████████████░░░░░░░░   66.41 % 
+VS Code                  10 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,7 +67,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 18:33:11 UTC
+ Last Updated on 26/05/2023 18:32:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
