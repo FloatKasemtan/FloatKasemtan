@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,17 +57,17 @@ Mac                      1 hr 8 mins         ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
 
 
- Last Updated on 24/07/2023 11:01:00 UTC
+ Last Updated on 24/07/2023 18:35:48 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
