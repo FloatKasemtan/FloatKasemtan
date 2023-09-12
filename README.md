@@ -40,13 +40,14 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Groovy                   4 mins              █████████████████░░░░░░░░   68.15 % 
+Gradle                   1 min               ████████░░░░░░░░░░░░░░░░░   31.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,7 +63,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2023 17:00:19 UTC
+ Last Updated on 12/09/2023 17:01:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
