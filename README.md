@@ -26,7 +26,7 @@
 
 > 📦 590.8 kB Used in GitHub's Storage 
  > 
-> 🏆 501 Contributions in the Year 2023
+> 🏆 508 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,10 +54,10 @@ GoLand                   58 mins             ██████░░░░░�
 Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Go                       14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Go                       13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Java                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
@@ -67,7 +67,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2023 02:42:42 UTC
+ Last Updated on 10/10/2023 18:33:43 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
