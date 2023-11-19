@@ -52,17 +52,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 19/11/2023 16:59:59 UTC
+ Last Updated on 19/11/2023 17:00:46 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
