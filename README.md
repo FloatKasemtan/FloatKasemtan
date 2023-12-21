@@ -18,7 +18,7 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,13 +40,18 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Gradle                   16 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
+Java                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Groovy                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           32 mins             ██████████████████░░░░░░░   72.61 % 
+VS Code                  12 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,7 +67,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2023 17:00:47 UTC
+ Last Updated on 21/12/2023 17:01:34 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
