@@ -18,15 +18,15 @@
 ### Language I used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatKasemtan&layout=compact&theme=nightowl)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 610.9 kB Used in GitHub's Storage 
+> 📦 611.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,17 +52,17 @@ Mac                      10 mins             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 07/01/2024 11:22:21 UTC
+ Last Updated on 07/01/2024 18:33:06 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
