@@ -26,8 +26,6 @@
 
 > 📦 617.7 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -40,14 +38,14 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               9 hrs 17 mins       █████████████████████████   99.77 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               6 hrs 27 mins       █████████████████████████   99.67 % 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,7 +61,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 18:33:03 UTC
+ Last Updated on 12/02/2024 18:33:55 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
