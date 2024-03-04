@@ -40,13 +40,13 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       █████████████████████████   100.00 % 
+TypeScript               1 hr 43 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,7 +62,7 @@ Visual Basic .NET        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 18:34:17 UTC
+ Last Updated on 04/03/2024 18:35:09 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
