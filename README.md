@@ -49,20 +49,16 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Python** 
 
 ```text
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Visual Basic .NET        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   1 repo              █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 16/10/2025 18:58:59 UTC
+ Last Updated on 16/10/2025 19:00:46 UTC
 <!--END_SECTION:waka-->
 <!--
 **FloatKasemtan/FloatKasemtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
